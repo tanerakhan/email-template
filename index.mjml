@@ -1,0 +1,80 @@
+<mjml>
+<mj-head>
+    <mj-style inline="inline">
+    .bannerBg{
+      background-color: #f8f6f9;
+      background-image:url('https://mintatec.com/email/b-7.jpeg');
+      background-size:cover;
+      background-repeat:no-repeat;
+      padding-top:145px;
+      padding-bottom:145px;
+    }
+    .topSection{
+
+    }
+    @media (min-width:280px and max-width:500px){
+      .bannerBg{
+        background: url("")!important;
+      }
+    }
+@media (prefers-color-scheme: dark) {
+    .buttons{
+      background-color:#0054ea!important;
+      color: #fff!important
+    }
+    .darkColor{
+      color: #122039!important
+    }
+}
+    </mj-style>
+</mj-head>
+    <mj-body>
+    <mj-container width="800px">
+    <mj-section css-class="bannerBg">
+          <mj-column css-class="bannerCol" width="360px">   
+              <mj-image width="100px" padding-bottom="40px" src="https://mintatec.com/email/l-3.png" align="left"/>
+              <mj-text css-class="darkColor" font-size="40px" padding-bottom="20px" font-weight="900" line-height="50px" color="#122039">Gift Success for Back to School!</mj-text>
+              <mj-text css-class="darkColor" font-size="18px" padding-bottom="40px" line-height="27px" color="#122039" letter-spacing="0.14px">Use SmartGift to send the necessary supplies or a thoughtful gift to make the transition to school easier.</mj-text>
+              <mj-button css-class="buttons" width="279px" align="left" height="50px" background-color="#0054ea" color="white" font-size="14px" font-weight="800">
+                Shop Back to School Collection
+              </mj-button>
+          </mj-column>
+          <mj-column width="340px"></mj-column>
+    </mj-section>
+
+    <mj-section css-class="topSection">
+          <mj-column>   
+              <mj-text css-class="darkColor" font-size="32px" align="center" padding-bottom="8px" font-weight="900" color="#122039">For Teachers</mj-text>
+              <mj-text css-class="darkColor" font-size="18px" align="center" padding-bottom="16px" line-height="24px" color="#122039">The perfect gift to let your favorite teacher or educator know you care, from gourmet treats to floral arrangements.</mj-text>
+          </mj-column>
+      </mj-section>
+
+    <mj-section css-class="topSection">
+          <mj-column width="50%">   
+              <mj-image src="https://mintatec.com/email/b-1.png" width="220px" align="center"/>
+          </mj-column>
+          <mj-column width="50%">   
+              <mj-image padding-top="40px" src="https://mintatec.com/email/l-4.png" width="100px" align="left"/>
+              <mj-text css-class="darkColor" font-size="20px" font-weight="800" align="left" padding-top="25px" padding-bottom="8px" color="#122039">aveda comforting tea</mj-text>
+              <mj-text css-class="darkColor" font-size="15px" align="left" padding-bottom="20px" color="#505d74" line-height="24px">For the late night grading sessions.</mj-text>
+              <mj-text css-class="darkColor" font-size="15px" align="left" color="#0054ea"><a href="https://google.com">See More</a></mj-text>
+          </mj-column>
+      </mj-section>
+
+    <mj-section css-class="topSection" padding-top="30px">
+          <mj-column width="50%">   
+              <mj-image padding-top="40px" src="https://mintatec.com/email/l-1.png" width="100px" align="left"/>
+              <mj-text css-class="darkColor" font-size="20px" font-weight="800" align="left" padding-top="25px" padding-bottom="8px" color="#122039">Trophy Bouquet™</mj-text>
+              <mj-text css-class="darkColor" font-size="15px" align="left" padding-bottom="20px" color="#505d74" line-height="24px">To show them your appreciation.</mj-text>
+              <mj-text css-class="darkColor" font-size="15px" align="left" color="#0054ea"><a href="https://google.com">See More</a></mj-text>
+          </mj-column>
+          <mj-column width="50%">   
+              <mj-image src="https://mintatec.com/email/b-4.png" width="290px" align="center"/>
+          </mj-column>
+      </mj-section>
+
+    </mj-container>
+    </mj-body>
+  </mjml>
+
+  
