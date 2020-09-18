@@ -6,7 +6,7 @@
       background-image:url('https://mintatec.com/email/b-7.jpeg');
       background-size:cover;
       background-repeat:no-repeat;
-      padding-top:145px;
+      padding-top:100px;
       padding-bottom:145px;
     }
     .topSection{
@@ -69,8 +69,135 @@
               <mj-text css-class="darkColor" font-size="15px" align="left" color="#0054ea"><a href="https://google.com">See More</a></mj-text>
           </mj-column>
           <mj-column width="50%">   
-              <mj-image src="https://mintatec.com/email/b-4.png" width="290px" align="center"/>
+              <mj-image src="https://mintatec.com/email/b-4.png" align="center"/>
           </mj-column>
+      </mj-section>
+
+    <mj-section css-class="topSection" padding-top="30px">
+"         <mj-column width="50%" background-color="#f3f4f1">   
+              <mj-image src="https://mintatec.com/email/b-2.png" width="190px" align="center"/>
+          </mj-column>
+          <mj-column width="50%">   
+              <mj-image padding-top="40px" src="https://mintatec.com/email/l-5.png" width="100px" align="left"/>
+              <mj-text css-class="darkColor" font-size="20px" font-weight="800" align="left" padding-top="25px" padding-bottom="8px" color="#122039">amped & co black felt letterboard wall hanging</mj-text>
+              <mj-text css-class="darkColor" font-size="15px" align="left" padding-bottom="20px" color="#505d74" line-height="24px">To spruce up their classroom.</mj-text>
+              <mj-text css-class="darkColor" font-size="15px" align="left" color="#0054ea"><a href="https://google.com">See More</a></mj-text>
+          </mj-column>
+      </mj-section>
+
+      <mj-section css-class="topSection" padding-top="30px">
+          <mj-column width="50%">   
+              <mj-image padding-top="40px" src="https://mintatec.com/email/l-1.png" width="100px" align="left"/>
+              <mj-text css-class="darkColor" font-size="20px" font-weight="800" align="left" padding-top="25px" padding-bottom="8px" color="#122039">Tins With Pop™ Welcome Back Desk</mj-text>
+              <mj-text css-class="darkColor" font-size="15px" align="left" padding-bottom="20px" color="#505d74" line-height="24px">The best after school snack.</mj-text>
+              <mj-text css-class="darkColor" font-size="15px" align="left" color="#0054ea"><a href="https://google.com">See More</a></mj-text>
+          </mj-column>
+          <mj-column width="50%">   
+              <mj-image src="https://mintatec.com/email/b-3.png" align="center"/>
+          </mj-column>
+      </mj-section>
+
+      <mj-section css-class="topSection" padding-left="50px" padding-right="50px" background-color= "#fbf9fc" padding-top="30px">
+          <mj-column width="100%" padding-top="40px" padding-bottom="30px">    
+              <mj-text css-class="darkColor" font-size="32px" align="center" font-weight="800" padding-bottom="20px" color="#122039">Always the perfect gift</mj-text>
+          </mj-column>
+          <mj-column width="47%" border-radius="3px" padding-right="30px" background-color="white">    
+              <mj-image padding-top="40px" src="https://mintatec.com/email/i-3.png" width="60px" align="left"/>
+              <mj-text css-class="darkColor" font-size="20px" font-weight="800" align="left" padding-top="25px" padding-bottom="8px" color="#122039">You pick it</mj-text>
+              <mj-text css-class="darkColor" font-size="15px" align="left" padding-bottom="20px" color="#505d74" line-height="24px">Choose something on smartgiftit.com your favorite teacher or student will love—maybe a playful tote or keychain—and click "Send with SmartGift."</mj-text>
+          </mj-column>
+          <mj-column width="6%">   
+          </mj-column>
+          <mj-column width="47%" background-color="white" border-radius="3px">   
+              <mj-image padding-top="40px" src="https://mintatec.com/email/i-4.png" width="60px" align="left"/>
+              <mj-text css-class="darkColor" font-size="20px" font-weight="800" align="left" padding-top="25px" padding-bottom="8px" color="#122039">They perfect it</mj-text>
+              <mj-text css-class="darkColor" font-size="15px" align="left" padding-bottom="20px" color="#505d74" line-height="24px">They receive it instantly and can select their preferred color and size, or exchange across our entire catalogue for any same-priced item.</mj-text>
+          </mj-column>
+      </mj-section>
+
+      <mj-section background-color= "#fbf9fc" padding-bottom="50px">
+          <mj-column width="25%">   
+              
+          </mj-column>
+          <mj-column width="50%" background-color="white" border-radius="3px">   
+              <mj-image padding-top="30px" src="https://mintatec.com/email/i-5.png" width="60px" align="left"/>
+              <mj-text css-class="darkColor" font-size="20px" font-weight="800" align="left" padding-top="25px" padding-bottom="8px" color="#122039">Pay after</mj-text>
+              <mj-text css-class="darkColor" font-size="15px" align="left" padding-bottom="20px" color="#505d74" line-height="24px">We'll email you a pay link with their gift and delivery already filled. Now you can relax knowing you've just sent the perfect gift!</mj-text>
+          </mj-column>
+          <mj-column width="25%">   
+              
+          </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="50px" background-color="white">
+          <mj-column width="25%">   
+          </mj-column>
+          <mj-column width="12.5%">   
+              <mj-image src="https://mintatec.com/email/i-1.png" href="https://google.com" width="40px" align="center"/>
+          </mj-column>
+          <mj-column width="12.5%">   
+              <mj-image src="https://mintatec.com/email/i-2.png" href="https://google.com" width="40px" align="center"/>
+          </mj-column>
+          <mj-column width="12.5%">   
+              <mj-image src="https://mintatec.com/email/i-6.png" href="https://google.com" width="40px" align="center"/>
+          </mj-column>
+          <mj-column width="12.5%">   
+              <mj-image src="https://mintatec.com/email/i-7.png" href="https://google.com" width="40px" align="center"/>
+          </mj-column>
+          <mj-column width="25%">   
+          </mj-column>
+      </mj-section>
+
+      <mj-section css-class="footer" padding-top="50px" background-color="white">
+          <mj-column width="100%" padding-bottom="32px">   
+              <mj-image src="https://mintatec.com/email/l-2.png" href="https://google.com" width="24px" align="center"/>
+          </mj-column>
+
+          <mj-column width="12.5%">   
+          </mj-column>
+
+          <mj-column width="75%" padding-bottom="32px">   
+              <mj-text css-class="darkColor" font-size="14px" align="center" color="#222222" line-height="21px">Ensure that you receive all information regarding this gift in your inbox by adding no-reply@smartgift.it to your address book.</mj-text>
+          </mj-column>
+          
+          <mj-column width="12.5%">   
+          </mj-column>
+          
+          <mj-column width="20%">   
+          </mj-column>
+
+          <mj-column width="20%">   
+            <mj-text font-size="13px" align="center" line-height="20px" color="#2d2c2f"><a color="#2d2c2f" href="https://google.com"> Customer Care </a></mj-text>
+          </mj-column>
+
+          <mj-column width="20%">   
+            <mj-text font-size="13px" align="center" line-height="20px" color="#2d2c2f"><a color="#2d2c2f" href="https://google.com"> Unsubscribe Me </a></mj-text>
+          </mj-column>
+          
+          <mj-column width="20%">   
+            <mj-text font-size="13px" align="center" line-height="20px" color="#2d2c2f"><a color="#2d2c2f" href="https://google.com"> Privacy Policy </a></mj-text>
+          </mj-column>
+
+
+          <mj-column width="20%">   
+          </mj-column>
+
+          <mj-column width="100%" padding-top="80px" padding-bottom="12px">   
+            <mj-text font-size="9px" align="center" line-height="14px" color="#000">SmartGift - Always the perfect gift</mj-text>
+          </mj-column>
+
+          <mj-column width="100%" padding-bottom="20px">   
+          <mj-text font-size="9px" align="center" padding-bottom="0" padding-top="0" line-height="14px" color="#000">SmartGift, Inc. ©2020. All rights reserved. </mj-text>
+          <mj-text font-size="9px" align="center" padding-bottom="0" padding-top="0" line-height="14px" color="#000">SmartGift is located at 30 John Street, Brooklyn, NY11201.</mj-text>
+          </mj-column>
+
+          <mj-column width="100%" padding-bottom="12px">   
+          <mj-text font-size="9px" align="center" line-height="14px" padding-bottom="0" padding-top="0" color="#000">Available on 1-800-Flowers.com's Family of Brands, B&H Photo & Video, EXPRESS, Kendra Scott, Movado, TUMI, </mj-text>
+          <mj-text font-size="9px" align="center" line-height="14px" padding-bottom="0" padding-top="0" color="#000">Under Armour, Vineyard Vines and many more of your favorite brands. Find out more at smartgiftit.com </mj-text>
+          </mj-column>
+
+
+
       </mj-section>
 
     </mj-container>
